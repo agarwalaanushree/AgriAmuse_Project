@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBL-IjJDy1aE1SU_d1jI6bwFzhZJClZR8E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>228151860752</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.agriamuse.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>agriamuse-82ae5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>agriamuse-82ae5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:228151860752:ios:466713f004ed991515f495</string>
+</dict>
+</plist>

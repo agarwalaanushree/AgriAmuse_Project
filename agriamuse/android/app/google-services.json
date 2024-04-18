@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "228151860752",
+    "project_id": "agriamuse-82ae5",
+    "storage_bucket": "agriamuse-82ae5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228151860752:android:2087767d1c25fe5815f495",
+        "android_client_info": {
+          "package_name": "com.example.agriamuse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWYEkLveZen9uPt_5LHO44CVBjT_OcAY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
